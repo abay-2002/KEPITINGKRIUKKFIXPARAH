@@ -88,6 +88,7 @@ body {
 /*form*/
 form {
 	text-align: center;
+	margin: 110px auto;
 }
 
 form button {
