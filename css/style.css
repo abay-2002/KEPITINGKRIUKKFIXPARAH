@@ -85,6 +85,20 @@ body {
 
 }
 
+/*API gmaps*/
+.temui {
+	margin: 100px auto;
+}
+.temui h5 {
+	text-align: center;
+}
+
+#map {
+	margin-top: 30px;
+	width: 100%;
+	height: 350px;
+}
+
 /*form*/
 form {
 	text-align: center;
